@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<ArrayOfSanPham xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <SanPham>
+    <Id>1</Id>
+    <Name>Click đỏ 2010, mới keng máy móc êm ái nhẹ nhàng.</Name>
+    <Price>15800000</Price>
+    <Image>15b09bb1f99f0e1aa4f147c1d5cec293.jpg</Image> 
+    <XuatXu>VietNam</XuatXu>
+    <Odo>7000</Odo>
+    <DoiXe>2010</DoiXe>
+    <PhanKhoi>120</PhanKhoi>
+    <Color>Đỏ</Color>
+    <LoaiXe>Xe mới</LoaiXe>
+    <DiaChi>Thanh Xuân, Hà Nội</DiaChi>
+    </SanPham>
+    <SanPham>
+    <Id>2</Id>
+    <Name>HARLEY-DAVIDSON Fat Boy 114 2019 màu đen xanh da trời</Name>
+    <Price>150000000</Price>
+    <Image>06104863d04d69242ecf5277490fb187.jpeg</Image> 
+    <XuatXu>China</XuatXu>
+    <Odo>102340</Odo>
+    <DoiXe>2019</DoiXe>
+    <PhanKhoi>1000</PhanKhoi>
+    <Color>Xanh</Color>
+    <LoaiXe>Xe cũ</LoaiXe>
+    <DiaChi>Đống Đa, Hà Nội</DiaChi>
+    </SanPham>
+    <SanPham>
+    <Id>3</Id>
+    <Name>YAMAHA Exciter 135 Đen Vàng - 2012</Name>
+    <Price>23600000</Price>
+    <Image>12c0b7f02e4086c91ea893a6f5159876.jpg</Image> 
+    <XuatXu>VietNam</XuatXu>
+    <Odo>452623</Odo>
+    <DoiXe>2012</DoiXe>
+    <PhanKhoi>135</PhanKhoi>
+    <Color>Vàng</Color>
+    <LoaiXe>Xe cũ</LoaiXe>
+    <DiaChi> Hà Đông, Hà Nội</DiaChi>
+    </SanPham>
+    <SanPham>
+    <Id>4</Id>
+    <Name>HONDA Shadow 750 Classic 2016</Name>
+    <Price>80000000</Price>
+    <Image>145d3c38f09f88782bb9c163eece3719.jpeg</Image> 
+    <XuatXu>American</XuatXu>
+    <Odo>73412</Odo>
+    <DoiXe>2016</DoiXe>
+    <PhanKhoi>750</PhanKhoi>
+    <Color>Đỏ</Color>
+    <LoaiXe>Xe cũ</LoaiXe>
+    <DiaChi>Thanh Xuân, Hà Nội</DiaChi>
+    </SanPham>
+    <SanPham>
+    <Id>5</Id>
+    <Name>Kawasaki Z800 ABS</Name>
+    <Price>158000000</Price>
+    <Image>339848ea5a7b9d6f92225373fb3263d0.jpg</Image> 
+    <XuatXu>Japan</XuatXu>
+    <Odo>214122</Odo>
+    <DoiXe>2020</DoiXe>
+    <PhanKhoi>120</PhanKhoi>
+    <Color>Xanh lá</Color>
+    <LoaiXe>Xe mới</LoaiXe>
+    <DiaChi>Cầu giấy, Hà Nội</DiaChi>
+    </SanPham>
+    <SanPham>
+    <Id>6</Id>
+    <Name>TRIUMPH Bonneville T100 Black 2019</Name>
+    <Price>90000000</Price>
+    <Image>3baa8fb8b42294122eb26fab37d83331.jpg</Image> 
+    <XuatXu>VietNam</XuatXu>
+    <Odo>35123</Odo>
+    <DoiXe>2019</DoiXe>
+    <PhanKhoi>1000</PhanKhoi>
+    <Color>Đen</Color>
+    <LoaiXe>Xe mới</LoaiXe>
+    <DiaChi>Thanh Xuân, Hà Nội</DiaChi>
+    </SanPham>
+    <SanPham>
+    <Id>7</Id>
+    <Name>Exciter 135 2014 BSTP</Name>
+    <Price>24600000</Price>
+    <Image>4d65ab6f981cc3e7583eaa1eff8d1d23.jpg</Image> 
+    <XuatXu>China</XuatXu>
+    <Odo>23452</Odo>
+    <DoiXe>2014</DoiXe>
+    <PhanKhoi>135</PhanKhoi>
+    <Color>Đen</Color>
+    <LoaiXe>Xe mới</LoaiXe>
+    <DiaChi>Thanh Xuân, Hà Nội</DiaChi>
+    </SanPham>
+    <SanPham>
+    <Id>8</Id>
+    <Name>HONDA Spacy 125 Nhật chính chủ</Name>
+    <Price>23500000</Price>
+    <Image>521f0a3067f0c00712104c78ee2f162c.jpeg</Image> 
+    <XuatXu>VietNam</XuatXu>
+    <Odo>7000</Odo>
+    <DoiXe>2018</DoiXe>
+    <PhanKhoi>125</PhanKhoi>
+    <Color>Vàng</Color>
+    <LoaiXe>Xe cũ</LoaiXe>
+    <DiaChi>Thanh Xuân, Hà Nội</DiaChi>
+    </SanPham>
+    <SanPham>
+    <Id>9</Id>
+    <Name>Exciter full 2010, Máy full 57</Name>
+    <Price>24600000</Price>
+    <Image>5eeaff0ca8a41508627e59a448e755e9.jpg</Image> 
+    <XuatXu>VietNam</XuatXu>
+    <Odo>132541</Odo>
+    <DoiXe>2010</DoiXe>
+    <PhanKhoi>150</PhanKhoi>
+    <Color>Trắng</Color>
+    <LoaiXe>Xe mới</LoaiXe>
+    <DiaChi>Cầu Giấy, Hà Nội</DiaChi>
+    </SanPham>
+    <SanPham>
+    <Id>10</Id>
+    <Name>HONDA Wave Alpha Trắng - 2000</Name>
+    <Price>15800000</Price>
+    <Image>6fed20433e5e1927156950ce94e13bb7.png</Image> 
+    <XuatXu>VietNam</XuatXu>
+    <Odo>73210</Odo>
+    <DoiXe>2000</DoiXe>
+    <PhanKhoi>130</PhanKhoi>
+    <Color>Trắng</Color>
+    <LoaiXe>Xe cũ</LoaiXe>
+    <DiaChi>Thanh Xuân, Hà Nội</DiaChi>
+    </SanPham>
+    <SanPham>
+    <Id>11</Id>
+    <Name>HONDA Rebel 300 ABS Đen - 2019</Name>
+    <Price>80000000</Price>
+    <Image>9bdd59c3a1a163a59d538acda3dc7741.jpg</Image> 
+    <XuatXu>VietNam</XuatXu>
+    <Odo>123412</Odo>
+    <DoiXe>2019</DoiXe>
+    <PhanKhoi>300</PhanKhoi>
+    <Color>Đen</Color>
+    <LoaiXe>Xe cũ</LoaiXe>
+    <DiaChi>Hoàng Mai, Hà Nội</DiaChi>
+    </SanPham>
+    <SanPham>
+    <Id>12</Id>
+    <Name>BMW C400X ABS 2019</Name>
+    <Price>228000000</Price>
+    <Image>e52f0b2bed7f9bcb6b4a56bc43342321.jpg</Image> 
+    <XuatXu>Japan</XuatXu>
+    <Odo>123142</Odo>
+    <DoiXe>2019</DoiXe>
+    <PhanKhoi>1000</PhanKhoi>
+    <Color>Xanh</Color>
+    <LoaiXe>Xe cũ</LoaiXe>
+    <DiaChi>Thanh Xuân, Hà Nội</DiaChi>
+    </SanPham>
+</ArrayOfSanPham>

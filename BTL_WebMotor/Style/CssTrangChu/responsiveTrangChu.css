@@ -1,0 +1,291 @@
+﻿
+/* PC */
+@media (min-width: 1025px) {
+    .grid__column-6 {
+        width: 16.66666667%;
+    }
+}
+
+@media (max-width: 900px) {
+    .grid__column-2 {
+        width: 25%;
+    }
+}
+
+
+/* TABLET */
+@media (min-width: 768px) and (max-width: 1024px) {
+
+    .pad_-15 {
+        padding: 0 -15px;
+    }
+
+    .close-responsive-tablet {
+        display: none;
+    }
+
+    .home-model-item {
+        width: 100%;
+    }
+
+    .footer-content {
+        display: none;
+    }
+
+    .footer-container {
+        justify-content: space-around;
+    }
+
+    .search__moto-option {
+        margin-bottom: 8px;
+    }
+}
+
+/* MOBILE */
+@media (max-width: 767px) {
+    #header .header-content {
+        align-items: center;
+        justify-content: flex-start;
+    }
+
+    .logo {
+        width: 30%;
+    }
+
+        .logo .logo-img {
+            width: 100%;
+        }
+
+    .header-item {
+        width: 65%;
+    }
+
+    .header-menu_item a {
+        font-size: 9px;
+        padding: 7px;
+        width: 100%;
+    }
+
+    .header-info {
+        display: none;
+    }
+
+    .header-info__rpsMobile {
+        display: flex !important;
+        justify-content: flex-end;
+    }
+
+    .header-text {
+        font-size: 18px;
+    }
+
+    .info-contact {
+        font-size: 12px;
+        margin-left: -16px;
+    }
+
+    .header-search
+    .search-options {
+        display: none;
+    }
+
+    .header-search
+    .input-search {
+        width: 70%;
+    }
+
+    .social-icon .fab {
+        display: none;
+    }
+
+    .header-info_second {
+        margin-right: -30px;
+    }
+
+    .info-question_icon i {
+        display: none;
+    }
+
+
+    /* Form Đăng ký/Đăng nhập */
+    .auth__form {
+        width: 100%;
+    }
+
+    .auth__form-app-link i {
+        font-size: 2.2rem;
+    }
+
+    .auth__form-app-name {
+        display: none;
+    }
+
+    .auth__form-login {
+    }
+
+    .nav-first {
+        display: none;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .nav-item a {
+        padding-left: 48px;
+    }
+
+    .nav-text__rpsMobile,
+    .nav-icon__rpsMobile {
+        display: block !important;
+    }
+
+    .footer-container {
+        margin: 0 24px;
+    }
+
+    .footer-content {
+        display: none;
+    }
+
+    .footer-payment {
+        margin-left: 16px;
+    }
+
+    .footer-copyright__text {
+        margin: 0 24px;
+    }
+
+    /* CONTAINER */
+    .search__moto-list-option {
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .container__search {
+        margin: 0 -15px;
+        box-shadow: none;
+    }
+
+    .search__moto-option {
+        margin-bottom: 8px;
+    }
+
+    .search__moto-btn {
+    }
+
+    .item-brand {
+        width: 20%;
+    }
+
+    .list__brand {
+        flex-wrap: wrap;
+    }
+
+    .list__type {
+        flex-wrap: wrap;
+    }
+
+    .item__type {
+        width: 20%;
+    }
+
+    .grid__column-2 {
+        width: 50%;
+    }
+
+    .home-product {
+    }
+
+    .grid__column-4--m10 {
+        width: 50%;
+    }
+
+    .home-suggest {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .home-model {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .home-model-item {
+        width: 100%;
+    }
+
+    .fa-solid {
+        padding: 0 4px;
+    }
+
+    .home-keyword {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    /* SCROLL */
+    .scrollTop {
+        bottom: 40px;
+        right: -10px;
+    }
+
+        .scrollTop i {
+            padding: 14px 20px 14px 14px;
+            border-radius: 10px;
+        }
+
+    .close-responsive-max767 {
+        display: none;
+    }
+
+    /*Thanh Menu*/
+    .nav-icon__rpsMobile {
+        display: block !important;
+        cursor: pointer;
+    }
+}
+
+@media (max-width: 600px) {
+    .grid__column-3--m6 {
+        width: 33.3%;
+    }
+
+    .footer-payment {
+        display: none;
+    }
+}
+
+@media (max-width: 450px) {
+    .grid__column-3--m6 {
+        width: 50%;
+    }
+
+    .close-responsive-max450 {
+        display: none;
+    }
+
+    .grid__column-4--m10 {
+        width: 100%;
+    }
+
+    .item-brand {
+        width: 25%;
+    }
+
+    .item__type {
+        width: 25%;
+    }
+}
+
+@media (max-width: 350px) {
+    .grid__column-2 {
+        width: 100%;
+    }
+
+    .item-brand {
+        width: 33.3%;
+    }
+
+    .item__type {
+        width: 33.3%;
+    }
+}
